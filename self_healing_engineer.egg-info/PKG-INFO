@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: self-healing-engineer
+Version: 0.1.0
+Summary: Evidence-driven, human-approved GitHub issue repair agent
+Requires-Python: <3.14,>=3.10
+Requires-Dist: openai<3,>=1.0
+Requires-Dist: uagents>=0.25.5
+Requires-Dist: uagents-core>=0.1
